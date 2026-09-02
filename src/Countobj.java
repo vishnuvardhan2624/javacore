@@ -17,7 +17,7 @@ public class Countobj {
 		Countobj c4=new Countobj();
 		Countobj c5=new Countobj();
 		
-		System.out.println("number of objects created:"+count);
+		System.out.println("number of objects are created:"+count);
 		
 	}
 
